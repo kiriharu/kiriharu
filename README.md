@@ -13,7 +13,7 @@
 * using Python and Kotlin for most of my projects. For frontend I prefer Vue.js
 * working Linux system administrator
 * studying software development
-* interesting about reverse engineering
+* interesting in reverse engineering
 
 ## Contacts 💭
 * Telegram (channel) - [@kiriharu](https://t.me/kiriharu)
