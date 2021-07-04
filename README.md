@@ -10,7 +10,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-24B8EB?style=flat-square&logo=docker&logoColor=white) 
 
 ## I'm... 👨
-* using Python and Kotlin for most of my projects. For frontend I prefer Vue.js
+* using Python for most of my projects. For frontend I prefer React. For backand - FastAPI, Starlette, Django.
 * working Linux system administrator
 * studying software development
 * interested in reverse engineering
