@@ -10,7 +10,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-24B8EB?style=flat-square&logo=docker&logoColor=white) 
 
 ## I'm... 👨
-* using Python for most of my projects. For frontend I prefer React. For backand - FastAPI, Starlette, Django.
+* using Python for most of my projects. For frontend I prefer React. For backend - FastAPI, Starlette, Django.
 * working Linux system administrator
 * studying software development
 * interested in reverse engineering
